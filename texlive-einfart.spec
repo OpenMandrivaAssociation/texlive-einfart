@@ -1,5 +1,5 @@
 Name:		texlive-einfart
-Version:	68376
+Version:	70117
 Release:	1
 Summary:	Write your articles in a simple and clear way
 Group:		Publishing
