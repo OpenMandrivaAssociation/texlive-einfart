@@ -3,7 +3,7 @@ Version:	70313
 Release:	1
 Summary:	Write your articles in a simple and clear way
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/einfart
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/einfart
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/einfart.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/einfart.doc.r%{version}.tar.xz
